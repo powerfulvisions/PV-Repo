@@ -78,6 +78,12 @@
       "sourceType": "github",
       "skillPath": "skills/remotion-upgrade/SKILL.md",
       "computedHash": "f54a15692b1f43d8f77fe214aa3625cdae157830bcc32b2aceae08e866ec60e8"
+    },
+    "skill-inspector": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "skills/skill-inspector/SKILL.md",
+      "computedHash": "26e8cdf95215de34f9f832ff3b897649dcef118da318886d2665a7fcd026f91d"
     }
   }
 }
